@@ -236,7 +236,23 @@ Pros: Перше повністю працююче (як би ще "качель
 
 Cons: Для ідеального рішення ще би ідеально було якби напруга на батареї не опускалась нижче 3В. Втрата КПД до 5-10% яка компенсується більшою батареєю. Рідне зарядне має замалу потужність.
 
+#### Продакшен
 
+Якщо все під руками то зібрати кінцевий девайс не більше години. Отже що було підруками: Плати на TP4056+DW01 і MT3608. Два діоди шотки 1N5817, папа і мама USB розєм на кабель, тримач батареї 18650 і корпус куда то все влазить.
+
+Перший крок - зпаяти 
+
+![](https://github.com/abajavascript/Li-Ion-UPS-18650/blob/master/TP4056-DW01-MT3608-Diods-Implementation-1.jpg)
+
+Другий крок - впхати в корпус
+
+![](https://github.com/abajavascript/Li-Ion-UPS-18650/blob/master/TP4056-DW01-MT3608-Diods-Implementation-2.jpg)
+
+![](https://github.com/abajavascript/Li-Ion-UPS-18650/blob/master/TP4056-DW01-MT3608-Diods-Implementation-3.jpg)
+
+Крок третій - перевірка в дії
+
+![](https://github.com/abajavascript/Li-Ion-UPS-18650/blob/master/TP4056-DW01-MT3608-Diods-Implementation-4.jpg)
 
 
 
