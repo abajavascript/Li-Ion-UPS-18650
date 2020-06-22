@@ -15,7 +15,7 @@ Describe how to create simple, cheap and efficient UPS, based on 18650 Li-Ion ba
 
 Забезпечити можливість автономної роботи Wi-Fi камери.
 
-![](https://github.com/abajavascript/Li-Ion-UPS-18650/blob/master/YiHome-photo.jpg) 
+![](YiHome-photo.jpg) 
 
 
  
