@@ -350,4 +350,11 @@ Cons: Для ідеального рішення ще планую позбут�
 
 https://tinyurl.com/2nthaa9w
 
+### Resources
+
+1. https://electro-shema.ru/chertezhi/zaryadka-dlya-li-ion-akkumulyatorov.html
+2. https://mysku.club/blog/china-stores/52699.html
+3. https://mysku.club/blog/china-stores/31248.html
+4. https://mysku.club/blog/aliexpress/53859.html
+5. [Google search](https://www.google.com/search?q=%D1%81%D1%85%D0%B5%D0%BC%D0%B0+%D0%B7%D0%B0%D1%80%D1%8F%D0%B4%D0%BD%D0%BE%D0%B5+%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE+14.6&sca_esv=575601661&hl=uk&sxsrf=AM9HkKmOpT_CY3w7lpHy6VQivsY1U6n_gQ:1697982581532&source=lnms&sa=X&ved=2ahUKEwjgmu2E5omCAxVfzwIHHfY0CwsQ_AUoAXoECAIQAw&biw=1821&bih=868&dpr=0.75&udm=2)
  
