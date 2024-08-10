@@ -357,4 +357,9 @@ https://tinyurl.com/2nthaa9w
 3. https://mysku.club/blog/china-stores/31248.html
 4. https://mysku.club/blog/aliexpress/53859.html
 5. [Google search](https://www.google.com/search?q=%D1%81%D1%85%D0%B5%D0%BC%D0%B0+%D0%B7%D0%B0%D1%80%D1%8F%D0%B4%D0%BD%D0%BE%D0%B5+%D1%83%D1%81%D1%82%D1%80%D0%BE%D0%B9%D1%81%D1%82%D0%B2%D0%BE+14.6&sca_esv=575601661&hl=uk&sxsrf=AM9HkKmOpT_CY3w7lpHy6VQivsY1U6n_gQ:1697982581532&source=lnms&sa=X&ved=2ahUKEwjgmu2E5omCAxVfzwIHHfY0CwsQ_AUoAXoECAIQAw&biw=1821&bih=868&dpr=0.75&udm=2)
- 
+6. [Хімія акумуляторів 18650] (https://neovolt.ru/blog/957_18650-imr-icr-inr-ifr-nca)
+7. [Сайт виробника батарей Tenpower які продаються на NKON.nl](https://www.tenpowercell.com/products/cells)
+8. [Сайт виробника батарей BAK які продаються на NKON.nl](https://www.bakpowerproduct.com/category/4)
+9. https://www.kirich.blog/obzory/121-36-volt-10-amper-360-vatt-ili-prodolzhaem-izuchat-kak-ustroeny-bloki-pitaniya-nebolshoy-bonus.html#google_vignette
+10. https://www.kirich.blog/obzory/118-5-volt-7-2-ampera-i-36-vatt-ili-nebolshoy-rasskaz-o-tom-kak-vybrat-pravilnyy-blok-pitaniya.html#google_vignette
+11. https://www.kirich.blog/stati/informaciya-dlya-nachinayuschih/1115-bloki-pitaniya-chem-otlichayutsya-i-kak-vybrat-podhodyaschiy.html#google_vignette
